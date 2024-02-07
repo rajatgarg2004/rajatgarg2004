@@ -43,6 +43,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rajatgarg2004&icon=8&color=2)](https://visitcount.itsvg.in)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatgarg2004&label=Profile%20views&color=0e75b6&style=flat" alt="rajatgarg2004" /> </p>
-
