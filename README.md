@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Garg</h1>
-# 💫 About Me:
+💫 About Me:
 👨‍💻 An aspiring coder who is currently delving deeper into the realm of machine learning.<br><br>💬 Ask me about Data Structures and Algorithms, Web Development<br><br>📫 How to reach me rajatgarg2004@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/14w7rrUOnSJPKcUn5-uALGjHrs4GR4TzS/view
 
 
