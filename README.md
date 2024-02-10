@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajat Garg</h1>
-💫 About Me: An Aspiring Coder who is currently delving deeper into the realm of Web Development.<br><br>💬 Ask me about Data Structures and Algorithms, Web Development<br><br>📫 How to reach me rajatgarg2004@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/14w7rrUOnSJPKcUn5-uALGjHrs4GR4TzS/view
-
+💫 About Me: An Aspiring Coder who is currently delving deeper into the realm of Web Development.<br><br>💬 Ask me about Data Structures and Algorithms, Web Development<br><br>📫 How to reach me rajatgarg2004@gmail.com<br><br>📄 
+<a href="https://drive.google.com/file/d/1hIJXxQgfgMm5wmTjLmiW29sMvFi2O3An/view?usp=sharing" target="_blank">Know about my experiences </a>
 
 <h3 align="left">Tech Stack: </h3>
 
