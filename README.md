@@ -16,6 +16,9 @@
 
 # 📊 GitHub Stats:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatgarg2004" alt="rajatgarg2004" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatgarg2004&show_icons=true&locale=en" alt="rajatgarg2004" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatgarg2004&" alt="rajatgarg2004" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
