@@ -15,9 +15,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajatgarg2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajatgarg2004&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatgarg2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatgarg2004" alt="rajatgarg2004" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
